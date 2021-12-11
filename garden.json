@@ -3968,6 +3968,11 @@
                  "id":0,
                  "properties":[
                         {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"audioVolume",
                          "type":"float",
                          "value":1
@@ -3981,6 +3986,11 @@
                 {
                  "id":1,
                  "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"audioVolume",
                          "type":"float",
@@ -3996,6 +4006,11 @@
                  "id":2,
                  "properties":[
                         {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"audioVolume",
                          "type":"float",
                          "value":1
@@ -4009,6 +4024,11 @@
                 {
                  "id":3,
                  "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"audioVolume",
                          "type":"float",
@@ -4024,6 +4044,11 @@
                  "id":4,
                  "properties":[
                         {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"audioVolume",
                          "type":"float",
                          "value":1
@@ -4037,6 +4062,11 @@
                 {
                  "id":5,
                  "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"audioVolume",
                          "type":"float",
@@ -4052,6 +4082,11 @@
                  "id":6,
                  "properties":[
                         {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"audioVolume",
                          "type":"float",
                          "value":1
@@ -4065,6 +4100,11 @@
                 {
                  "id":7,
                  "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"audioVolume",
                          "type":"float",
@@ -4080,6 +4120,11 @@
                  "id":8,
                  "properties":[
                         {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"audioVolume",
                          "type":"float",
                          "value":1
@@ -4093,6 +4138,11 @@
                 {
                  "id":9,
                  "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"audioVolume",
                          "type":"float",
@@ -4108,6 +4158,11 @@
                  "id":10,
                  "properties":[
                         {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"audioVolume",
                          "type":"float",
                          "value":1
@@ -4121,6 +4176,11 @@
                 {
                  "id":11,
                  "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"audioVolume",
                          "type":"float",
@@ -4136,6 +4196,11 @@
                  "id":12,
                  "properties":[
                         {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"audioVolume",
                          "type":"float",
                          "value":1
@@ -4150,6 +4215,11 @@
                  "id":13,
                  "properties":[
                         {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"audioVolume",
                          "type":"float",
                          "value":1
@@ -4163,6 +4233,11 @@
                 {
                  "id":14,
                  "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"audioVolume",
                          "type":"float",
@@ -4189,6 +4264,11 @@
                 {
                  "id":19,
                  "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"audioVolume",
                          "type":"float",

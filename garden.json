@@ -207,7 +207,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":162,
          "x":0,
          "y":0
@@ -219,7 +219,7 @@
          "name":"floor0",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":162,
          "x":0,
          "y":0
@@ -231,7 +231,7 @@
          "name":"floor1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":162,
          "x":0,
          "y":0
@@ -243,7 +243,7 @@
          "name":"floor2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":162,
          "x":0,
          "y":0
@@ -255,7 +255,7 @@
          "name":"floor3",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":162,
          "x":0,
          "y":0
@@ -267,7 +267,7 @@
          "name":"floor4",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":162,
          "x":0,
          "y":0
@@ -279,7 +279,7 @@
          "name":"tree0",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":162,
          "x":0,
          "y":0
@@ -291,7 +291,7 @@
          "name":"tree1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":162,
          "x":0,
          "y":0
@@ -303,7 +303,7 @@
          "name":"tree2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":162,
          "x":0,
          "y":0
@@ -315,7 +315,7 @@
          "name":"tree3",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":162,
          "x":0,
          "y":0
@@ -327,7 +327,7 @@
          "name":"tree4",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":162,
          "x":0,
          "y":0
@@ -350,7 +350,7 @@
          "name":"ontop0",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":162,
          "x":0,
          "y":0
@@ -364,7 +364,7 @@
          "offsety":17.6666666666667,
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":162,
          "x":0,
          "y":0
@@ -1451,6 +1451,16 @@
          "spacing":0,
          "tilecount":18,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":3,
+                 "properties":[
+                        {
+                         "name":"collision",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }, 
         {

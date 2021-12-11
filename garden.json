@@ -3968,135 +3968,210 @@
                  "id":0,
                  "properties":[
                         {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":1
+                        }, 
+                        {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"audios\/c4e2021_walk_cc0.ogg"
+                         "value":"c4e2021_walk_cc0.mp3"
                         }]
                 }, 
                 {
                  "id":1,
                  "properties":[
                         {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":1
+                        }, 
+                        {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"audios\/c4e2021_walk_cc0.ogg"
+                         "value":"c4e2021_walk_cc0.mp3"
                         }]
                 }, 
                 {
                  "id":2,
                  "properties":[
                         {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":1
+                        }, 
+                        {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"audios\/c4e2021_walk_cc0.ogg"
+                         "value":"c4e2021_walk_cc0.mp3"
                         }]
                 }, 
                 {
                  "id":3,
                  "properties":[
                         {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":1
+                        }, 
+                        {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"audios\/c4e2021_walk_cc0.ogg"
+                         "value":"c4e2021_walk_cc0.mp3"
                         }]
                 }, 
                 {
                  "id":4,
                  "properties":[
                         {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":1
+                        }, 
+                        {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"audios\/c4e2021_walk_cc0.ogg"
+                         "value":"c4e2021_walk_cc0.mp3"
                         }]
                 }, 
                 {
                  "id":5,
                  "properties":[
                         {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":1
+                        }, 
+                        {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"audios\/c4e2021_walk_cc0.ogg"
+                         "value":"c4e2021_walk_cc0.mp3"
                         }]
                 }, 
                 {
                  "id":6,
                  "properties":[
                         {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":1
+                        }, 
+                        {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"audios\/c4e2021_walk_cc0.ogg"
+                         "value":"c4e2021_walk_cc0.mp3"
                         }]
                 }, 
                 {
                  "id":7,
                  "properties":[
                         {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":1
+                        }, 
+                        {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"audios\/c4e2021_walk_cc0.ogg"
+                         "value":"c4e2021_walk_cc0.mp3"
                         }]
                 }, 
                 {
                  "id":8,
                  "properties":[
                         {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":1
+                        }, 
+                        {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"audios\/c4e2021_walk_cc0.ogg"
+                         "value":"c4e2021_walk_cc0.mp3"
                         }]
                 }, 
                 {
                  "id":9,
                  "properties":[
                         {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":1
+                        }, 
+                        {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"audios\/c4e2021_walk_cc0.ogg"
+                         "value":"c4e2021_walk_cc0.mp3"
                         }]
                 }, 
                 {
                  "id":10,
                  "properties":[
                         {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":1
+                        }, 
+                        {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"audios\/c4e2021_walk_cc0.ogg"
+                         "value":"c4e2021_walk_cc0.mp3"
                         }]
                 }, 
                 {
                  "id":11,
                  "properties":[
                         {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":1
+                        }, 
+                        {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"audios\/c4e2021_walk_cc0.ogg"
+                         "value":"c4e2021_walk_cc0.mp3"
                         }]
                 }, 
                 {
                  "id":12,
                  "properties":[
                         {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":1
+                        }, 
+                        {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"audios\/c4e2021_walk_cc0.ogg"
+                         "value":"c4e2021_walk_cc0.mp3"
                         }]
                 }, 
                 {
                  "id":13,
                  "properties":[
                         {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":1
+                        }, 
+                        {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"audios\/c4e2021_walk_cc0.ogg"
+                         "value":"c4e2021_walk_cc0.mp3"
                         }]
                 }, 
                 {
                  "id":14,
                  "properties":[
                         {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":1
+                        }, 
+                        {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"audios\/c4e2021_walk_cc0.ogg"
+                         "value":"c4e2021_walk_cc0.mp3"
                         }]
                 }, 
                 {
@@ -4115,9 +4190,14 @@
                  "id":19,
                  "properties":[
                         {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":1
+                        }, 
+                        {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"audios\/c4e2021_walk_cc0.ogg"
+                         "value":"c4e2021_walk_cc0.mp3"
                         }]
                 }, 
                 {
